@@ -6,3 +6,5 @@ my second attempt
 my third attempt
 
 commit directly
+
+after hot-fix
