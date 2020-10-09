@@ -8,3 +8,5 @@ my third attempt
 commit directly
 
 after hot-fix
+
+twice after hot-fix
